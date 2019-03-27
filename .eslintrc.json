@@ -1,0 +1,12 @@
+{
+  "extends": [
+    "@ianwalter/eslint-confg",
+    "plugin:vue/recommended"
+  ],
+  "plugins": [
+    "vue"
+  ],
+  "rules": {
+    "vue/multiline-html-element-content-newline": 0
+  }
+}
