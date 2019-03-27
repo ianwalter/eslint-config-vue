@@ -1,6 +1,6 @@
 {
   "extends": [
-    "@ianwalter/eslint-confg",
+    "@ianwalter",
     "plugin:vue/recommended"
   ],
   "plugins": [
