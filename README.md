@@ -17,7 +17,7 @@ In `package.json`:
   "eslintConfig": {
     "root": true,
     "extends": [
-      "@ianwalter/eslint-config-vue"
+      "@ianwalter/vue"
     ]
   }
 ```
