@@ -8,7 +8,7 @@
 </template>
 
 <script>
-import {things, worstNites} from 'foster-the-people'
+import {things} from 'foster-the-people'
 
 export default {
   computed: {
@@ -18,7 +18,7 @@ export default {
   },
   data: () => ({ artistCode: 'GA', things }),
   async mounted () {
-    const echoPark = await worstNites()
+    const echoPark = await import('worstNites')
     this.echoPark = echoPark
   }
 }
