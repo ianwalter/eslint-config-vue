@@ -22,6 +22,12 @@ In `package.json`:
   }
 ```
 
+## Related
+
+* [`@ianwalter/eslint-config`][configUrl] - Ian's ESLint configuration
+* [`@ianwalter/eslint-config-vue`][reactUrl] - Ian's ESLint configuration for
+  React and Preact
+
 ## License
 
 Apache 2.0 with Commons Clause - See [LICENSE][licenseUrl]
@@ -34,4 +40,6 @@ Created by [Ian Walter](https://iankwalter.com)
 [vueUrl]: https://vuejs.org/
 [npmImage]: https://img.shields.io/npm/v/@ianwalter/eslint-config-vue.svg
 [npmUrl]: https://www.npmjs.com/package/@ianwalter/eslint-config-vue
+[configUrl]: https://github.com/ianwalter/eslint-config
+[reactUrl]: https://github.com/ianwalter/eslint-config-react
 [licenseUrl]: https://github.com/ianwalter/eslint-config-vue/blob/master/LICENSE

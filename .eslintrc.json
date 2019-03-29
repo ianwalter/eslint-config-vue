@@ -7,6 +7,16 @@
     "vue"
   ],
   "rules": {
-    "vue/multiline-html-element-content-newline": 0
+    "vue/multiline-html-element-content-newline": 0,
+    "max-len": [
+      1,
+      {
+        "tabWidth": 2,
+        "ignoreUrls": true,
+        "ignoreStrings": true,
+        "ignoreTemplateLiterals": true,
+        "ignoreRegExpLiterals": true
+      }
+    ]
   }
 }
