@@ -19,7 +19,7 @@
   "homepage": "https://github.com/ianwalter/eslint-config-vue#readme",
   "main": "index.js",
   "scripts": {
-    "lint": "eslint index.js tests/tests.js",
+    "lint": "eslint .",
     "test": "bff"
   },
   "files": [
@@ -41,5 +41,8 @@
     "extends": [
       "@ianwalter"
     ]
-  }
+  },
+  "eslintIgnore": [
+    "tests/fixtures"
+  ]
 }
