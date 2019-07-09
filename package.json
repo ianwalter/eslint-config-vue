@@ -19,7 +19,7 @@
   "homepage": "https://github.com/ianwalter/eslint-config-vue#readme",
   "main": "index.js",
   "scripts": {
-    "lint": "eslint .",
+    "lint": "eslint index.js tests/tests.js",
     "test": "bff"
   },
   "files": [
@@ -28,9 +28,9 @@
   ],
   "dependencies": {
     "@ianwalter/eslint-config": "^2.1.0",
-    "babel-eslint": "^10.0.1",
-    "eslint": "^5.16.0",
-    "eslint-plugin-vue": "^5.2.2"
+    "babel-eslint": "^10.0.2",
+    "eslint": "^6.0.1",
+    "eslint-plugin-vue": "^5.2.3"
   },
   "devDependencies": {
     "@ianwalter/bff": "^6.3.1",
@@ -41,8 +41,5 @@
     "extends": [
       "@ianwalter"
     ]
-  },
-  "eslintIgnore": [
-    "tests/fixtures"
-  ]
+  }
 }
