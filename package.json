@@ -33,7 +33,7 @@
     "eslint-plugin-vue": "^5.2.3"
   },
   "devDependencies": {
-    "@ianwalter/bff": "^6.5.1",
+    "@ianwalter/bff": "^6.5.2",
     "@ianwalter/release": "^3.0.5",
     "@ianwalter/renovate-config": "^1.2.0"
   },
