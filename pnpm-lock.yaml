@@ -4139,7 +4139,7 @@ packages:
       integrity: sha512-7jXDIFXh5yJ/orPn4SXjuVrWWoi4Cr8jfV1eHv9CixKSbU+jY4mxfrBwAuDvupPNKpMUY+FeIqsVw/JLT9+B8g==
 specifiers:
   '@ianwalter/bff': ^9.9.1
-  '@ianwalter/eslint-config': ^2.1.1
+  '@ianwalter/eslint-config': ^2.4.0
   '@ianwalter/release': ^5.0.2
   '@ianwalter/renovate-config': ^1.4.0
   babel-eslint: ^10.1.0
