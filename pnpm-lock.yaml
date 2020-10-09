@@ -4143,5 +4143,5 @@ specifiers:
   '@ianwalter/release': ^5.0.2
   '@ianwalter/renovate-config': ^1.4.0
   babel-eslint: ^10.1.0
-  eslint: ^6.0.1
+  eslint: ^6.8.0
   eslint-plugin-vue: ^7.0.1
