@@ -44,4 +44,4 @@ Created by [Ian Walter](https://iankwalter.com)
 [configUrl]: https://github.com/ianwalter/eslint-config
 [reactUrl]: https://github.com/ianwalter/eslint-config-react
 [svelteUrl]: https://github.com/ianwalter/eslint-config-svelte
-[licenseUrl]: https://github.com/ianwalter/eslint-config-vue/blob/master/LICENSE
+[licenseUrl]: https://github.com/ianwalter/eslint-config-vue/blob/main/LICENSE
