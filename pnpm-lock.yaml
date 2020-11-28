@@ -7,7 +7,7 @@ devDependencies:
   '@changesets/cli': 2.11.0
   '@ianwalter/bff': 9.12.1
   '@ianwalter/release': 5.0.2
-  '@ianwalter/renovate-config': 1.4.0
+  '@ianwalter/renovate-config': 1.4.2
 lockfileVersion: 5.2
 packages:
   /@babel/code-frame/7.10.4:
@@ -609,10 +609,10 @@ packages:
     hasBin: true
     resolution:
       integrity: sha512-KummxGkI57AiSRdU1frjRZSzoCKFB+RyI1XlKiVvPd38XRr6lk0IfO/VQNtu6a7H/aooAGhRfb4Sm3soOaIUBQ==
-  /@ianwalter/renovate-config/1.4.0:
+  /@ianwalter/renovate-config/1.4.2:
     dev: true
     resolution:
-      integrity: sha512-zmHUJ06LbexUu1ARDxf9bnZuFCBsHiC+VVOFOy4G2TR9svg8YTP9m4dm+EYr9EXca/eqgwWHpLRxspYkxthfAw==
+      integrity: sha512-zsqqCE28FwCvBbXmDQgCwnGa5R1HEiNaMZD4QUwdVuycMT1xtv1TDAj4YiP878M4jgiU83iY1BdUXtjkpxu/Tw==
   /@ianwalter/sleep/0.0.1:
     dev: true
     resolution:
@@ -5025,7 +5025,7 @@ specifiers:
   '@ianwalter/bff': ^9.12.1
   '@ianwalter/eslint-config': ^5.4.0
   '@ianwalter/release': ^5.0.2
-  '@ianwalter/renovate-config': ^1.4.0
+  '@ianwalter/renovate-config': ^1.4.2
   babel-eslint: ^10.1.0
   eslint: ^7.10.0
   eslint-plugin-vue: ^7.0.1
