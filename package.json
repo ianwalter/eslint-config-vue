@@ -39,7 +39,7 @@
     "@changesets/cli": "^2.14.1",
     "@ianwalter/bff": "^9.12.1",
     "@ianwalter/release": "^5.0.2",
-    "@ianwalter/renovate-config": "^1.4.3"
+    "@ianwalter/renovate-config": "^1.4.4"
   },
   "renovate": {
     "extends": [
